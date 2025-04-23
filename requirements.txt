@@ -1,0 +1,2 @@
+# mcp
+pip install mcp==1.6.0
